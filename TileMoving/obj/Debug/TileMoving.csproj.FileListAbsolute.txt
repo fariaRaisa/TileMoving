@@ -1,0 +1,9 @@
+D:\2_1\c#\TileMoving\TileMoving\bin\Debug\TileMoving.exe.config
+D:\2_1\c#\TileMoving\TileMoving\bin\Debug\TileMoving.exe
+D:\2_1\c#\TileMoving\TileMoving\bin\Debug\TileMoving.pdb
+D:\2_1\c#\TileMoving\TileMoving\obj\Debug\TileMoving.csprojResolveAssemblyReference.cache
+D:\2_1\c#\TileMoving\TileMoving\obj\Debug\TileMoving.Form1.resources
+D:\2_1\c#\TileMoving\TileMoving\obj\Debug\TileMoving.Properties.Resources.resources
+D:\2_1\c#\TileMoving\TileMoving\obj\Debug\TileMoving.csproj.GenerateResource.Cache
+D:\2_1\c#\TileMoving\TileMoving\obj\Debug\TileMoving.exe
+D:\2_1\c#\TileMoving\TileMoving\obj\Debug\TileMoving.pdb
